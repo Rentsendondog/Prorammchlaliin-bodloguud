@@ -1,0 +1,39 @@
+1. Watermelon                 -solved
+2. Theatre Square             -solved
+3. Domino pilling             -solved       
+4. Soldier and Bananas        -solved
+5. Pineapple Incident         -solved
+6. Way Too Long Words         -solved
+7. Next Rounds                -solved 
+8. The number of positions    -solved     
+9. Expression                 -solved
+10. Young Physicist           -solved
+11. Ball Game                 -solved
+12. Shell Game                -solved!!!
+13. -Bit++                    -solved
+14. Free Cash                 -solved-time limit!
+15. Wrong Substraction        -no translate fucking my english!!
+16. Team                      -solved
+17. Tram                      -solved
+18. Stones on the Table       -solved
+19. Beatiful Matrix           -solved          
+20. Buttons                   -solved 
+21. Die Roll                  -solved
+22. Elephant                  -solved
+23. Calculating Function      -solved
+24. Hulk                      -solved
+25. Game With Sticks          -solved
+26. Drazil and Date           -solved
+27. Books                     -solved time limit!
+28. Fedya and Maths           -?
+29.Vasya the Hipster          -solved
+30. Anton and Danik           -solved no translate but i can          
+31. Plant
+32. Choosing Teams
+33. Registration system      -solved(in queue, 1) 
+34. School to Queue          -solved (2-3 argaar)
+35. Sum of Digits            -solved
+36. Alice,Bob and Chocolate  -solved (same 2 way)
+37. Given Length and Sum of Digits -solved
+38. Ciel and Flowers         -solved
+39. The Big Race             -solved (+magadlal!!)
